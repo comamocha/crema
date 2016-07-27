@@ -1,3 +1,3 @@
 export const URL = {
-  CREMA_API: 'http://52.53.172.60/v1'
+  CREMA_API: 'http://52.90.139.249:3333/v1'
 };
